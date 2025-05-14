@@ -1,0 +1,53 @@
+appid:
+Identificador único para cada título
+
+name:
+Título de la aplicación (juego)
+
+release_date
+Fecha de lanzamiento en formato yyyy-mm-dd
+
+english
+Soporte del idioma: 1 si está en inglés
+
+developer:
+Nombre (o nombres) de desarrolladores. Semicolon delimitado si múltiples
+
+publisher:
+Nombre (o nombres) del editor (s). Semicolon delimitado si múltiples
+
+platforms:
+Lista delimitada de Semicolon de plataformas compatibles. Como máximo, incluye: Windows; Mac; Linux
+
+required_age:
+Edad mínima requerida según los estándares de PEGI UK. Muchos con 0 no están clasificados o no sujetos.
+
+categories
+Lista delimitada de semicolon de categorías de juegos, multijugador,un jugador;
+
+genres
+Lista delimitada de Semicolon de géneros de juego, acción; aventura 
+
+steamspy_tags:
+Semicolon delimitó la lista de las mejores etiquetas de juego Steamspy, similares a los géneros pero la comunidad votó, p. acción; aventura
+
+achievements:
+Numero de logros en los juegos,si hay
+
+positive_ratings:
+Número de calificaciones positivas, de Steamspy
+
+negative_ratings:
+Número de calificaciones negativas, de Steamspy
+
+average_playtime:
+Tiempo promedio de juego del usuario, de Steamspy
+
+median_playtime:
+Medio tiempo de juego del usuario, de Steamspy
+
+owners:
+Número estimado de propietarios. Contiene un límite inferior y superior (como 20000-50000). Puede que desee tomar un punto medio o inferior. Incluyó ambos para dar opciones.
+
+price:
+Precio completo actual del título en GBP(dolares)
